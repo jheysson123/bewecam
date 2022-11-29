@@ -1,0 +1,51 @@
+img
+{
+width:30%;
+height:30%;
+}
+#caja1
+{
+background-color:pink;
+}
+img
+{
+width:30%;
+height:30%;
+}
+#caja2
+{background-color:wheat;
+}
+@media screen and (max-width:500px)
+{
+#caja1
+{
+background:yellow;
+}
+
+#caja2
+{
+background:pink;
+}
+}
+@media screen and (min-width:500px)
+{
+#caja1
+{
+background:blue;
+}
+
+#caja2
+{
+background:yellow;
+}
+h2
+{
+	background:cyan
+	font-family:Courier new 
+	font-estyle:cursive
+}
+#caja3
+{
+background:blue;
+	
+}
